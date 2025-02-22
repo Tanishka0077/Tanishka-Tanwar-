@@ -16,7 +16,7 @@ You'll find a mix of personal projects, learning exercises, and open-source cont
 ## 📫 Connect With Me
 Feel free to reach out or collaborate!
 - 💬 LinkedIn: [https://www.linkedin.com/in/tanishka-tanwar-b77671340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
-- 📧 Email: [tanwartanishka13]
+- 📧 Email: [tanwartanishka13@gmail.com]
 
 Happy coding! 🚀
 
